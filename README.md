@@ -1,4 +1,4 @@
-Tudo sobre o DTABRICKS DELTA LAKE
+Tudo sobre o DATABRICKS DELTA LAKE
 # O que aprender
 Para você que é engenheiro de dados, cientista de dados e pretende trabalhar com ferramentas que cri pipelines em R, python, scala e SQL, mas deseja utilizar o controle de transações como um banco de dados, então não deve deixar de conhecer o Databricks Delta Lake.
 
